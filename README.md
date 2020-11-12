@@ -1,5 +1,5 @@
 # Edtech_SystemTools
-This repository is a collection of Powershell tools for our system support staff members to use.
+This repository is a collection of PowerShell tools for our system support staff members to use.
 
 ## Tools
 
