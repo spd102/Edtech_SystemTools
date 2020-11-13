@@ -9,3 +9,4 @@ This repository is a collection of PowerShell tools for our system support staff
 * Get Panopto Remote Recorder Status
 * Get Panopto Service Toggle Events
 * Get PC Hotfixes
+* Get Drive Status
