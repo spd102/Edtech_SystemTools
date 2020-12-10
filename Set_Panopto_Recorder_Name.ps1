@@ -1,7 +1,7 @@
 ﻿<#---------------------------------
     Author: Sean Dyer
     Department: Educational Technologies
-    Description: This script changes the Panopto Remote Recorder Regsitry Description on a remote PC
+    Description: This script sets the Panopto Remote Recorder Regsitry Description on a remote PC
     Version: 1.0 (Initial version: 11/5/2020)
 -----------------------------------#>
 
