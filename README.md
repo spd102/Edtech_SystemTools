@@ -4,7 +4,7 @@ This repository is a collection of PowerShell tools for our system support staff
 ## Tools
 
 * Add Campus Key Account to Local Administrators Group
-* Change Panopto Recorder Name
+* Set Panopto Recorder Name
 * Get Number Of Specified Events in Specific Event Log
 * Get Panopto Remote Recorder Status
 * Get Panopto Service Toggle Events
