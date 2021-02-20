@@ -12,3 +12,4 @@ This repository is a collection of PowerShell tools for our system support staff
 * Get Drive Status
 * Get Computer Management for Remote Computer
 * Get IPv4 Address of Remote Computer
+* Get ChassisType of PC
